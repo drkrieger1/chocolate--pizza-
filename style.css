@@ -127,3 +127,13 @@ main {
   font-family: 'Francois One', sans-serif;
   font-size: 30px;
 }
+footer {
+  text-align: center;
+}
+#copy {
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 30px;
+font-size: 12px;
+}
